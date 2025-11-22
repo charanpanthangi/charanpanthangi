@@ -13,7 +13,7 @@ I love exploring technology, understanding how systems work, and pushing boundar
 - 🔭 Currently building **end-to-end AI pipelines**, RAG systems, and multi-agent architectures  
 - 🧠 Exploring the future of **Quantum Computing + AI convergence**  
 - 🛠 Experienced in ML engineering, NLP, LLM tuning, embeddings, MLOps, and cloud deployment (Azure/AWS)  
-- 🌍 Tech lover, traveller, and weekend long-ride explorer on my Scram 440 🏍️  
+- 🌍 Tech lover, traveller, and weekend long-ride explorer 
 - 📝 I write about AI, ML, GenAI, and my travel reflections on Medium  
 
 ---
