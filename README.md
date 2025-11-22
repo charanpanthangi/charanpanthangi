@@ -9,10 +9,10 @@ I love building end-to-end AI, ML,DL, NLP, and GenAI systems that solve real-wor
 
 ## 🔍 About Me
 
-✨ Passionate about designing AI-first solutions for Industry 4.0, Retail, and Finance  
+✨ Passionate about designing AI-first solutions   
 🧠 Exploring the future of **AI and Quantum Computing** and how they can power the next wave of intelligent systems  
-🧩 Enjoy working on LLMs, RAG, multi-agent systems, and production-grade ML pipelines  
-🌏 Tech enthusiast who loves **travelling**, meeting new people, and collecting experiences along the way  
+🧩 Enjoy working on LLMs, RAG, multi-agent systems, and production-grade  pipelines  
+🌏 Tech enthusiast also who loves **travelling**, meeting new people, and collecting experiences along the way  
 🏍 Loves riding  
 
 ---
@@ -31,11 +31,5 @@ I love building end-to-end AI, ML,DL, NLP, and GenAI systems that solve real-wor
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanpanthangi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanpanthangi&layout=compact&theme=tokyonight)
 
 ---
