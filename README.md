@@ -13,7 +13,7 @@ I love building end-to-end AI, ML,DL, NLP, and GenAI systems that solve real-wor
 🧠 Exploring the future of **AI and Quantum Computing** and how they can power the next wave of intelligent systems  
 🧩 Enjoy working on LLMs, RAG, multi-agent systems, and production-grade ML pipelines  
 🌏 Tech enthusiast who loves **travelling**, meeting new people, and collecting experiences along the way  
-🏍 Fun fact: Weekends often turn into long rides on my Scram 440 😎  
+🏍 Loves riding  
 
 ---
 
