@@ -1,7 +1,7 @@
 # Hey 👋 I’m Charan Panthangi
 
 **Data Scientist | Lead Engineer | AI & GenAI Builder | Quantum Computing Enthusiast**  
-Bangalore, India 🇮🇳  
+
 
 I work at the intersection of **AI, machine learning, GenAI, and engineering**, building scalable, production-ready solutions that solve real-world problems.  
 I love exploring technology, understanding how systems work, and pushing boundaries in **LLMs, RAG, multi-agent systems, and quantum-inspired computing**.
